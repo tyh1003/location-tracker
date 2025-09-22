@@ -7,7 +7,7 @@
 
 - **課程名稱**：行動裝置程式設計  
 - **作品名稱**：定位追蹤器  
-- **使用語言**：JavaScript（Android Studio Hybrid App 開發）  
+- **使用語言**：Java（Android Studio Hybrid App 開發）  
 - **適用平台**：Android 手機  
 
 ---
